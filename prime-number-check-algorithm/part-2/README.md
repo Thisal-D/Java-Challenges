@@ -6,6 +6,16 @@
 
 ---
 
+#### Expected Output
+
+![](./assets/1.png)
+
+---
+
+![](./assets/2.jpg)
+
+---
+
 #### how to use `List` in java.
 
 ```java
