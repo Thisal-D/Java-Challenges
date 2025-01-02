@@ -5,3 +5,4 @@
     - [Part 1](./prime-number-check-algorithm/part-1)
     - [Part 2](./prime-number-check-algorithm/part-2)
     - [Part 3](./prime-number-check-algorithm/part-3)
+    - [Part 4](./prime-number-check-algorithm/part-4)
