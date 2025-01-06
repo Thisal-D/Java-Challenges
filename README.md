@@ -6,3 +6,9 @@
     - [Part 2](./prime-number-check-algorithm/part-2)
     - [Part 3](./prime-number-check-algorithm/part-3)
     - [Part 4](./prime-number-check-algorithm/part-4)
+
+2. > ### [String Manipulation Algorithm Questions](./string-manipulate-algorithm)
+    - [Part 1](./string-manipulate-algorithm/part-1)
+    - [Part 2](./string-manipulate-algorithm/part-2)
+    - [Part 3](./string-manipulate-algorithm/part-3)
+    - [Part 4](./string-manipulate-algorithm/part-4)
