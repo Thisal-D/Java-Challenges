@@ -1,7 +1,7 @@
 ## Write a Java program that implements several methods for manipulating strings and uses them in the main method. 
 
 ## Methods to Implement:
-1. **Method to Count Factors**  
+1. **Method to Reverse a String**  
    - **Signature:**  
      ```java
      public static String reverse(String value)
@@ -9,7 +9,7 @@
    - **Description:**  
      This method should take a string as input and return its reverse.
 
-2. **Method to Check if a Number is Prime**  
+2. **Method to Slice a String**  
    - **Signature:**  
      ```java
      public static String slice(String value, int start, int end)
@@ -17,7 +17,7 @@
    - **Description:**  
      This method should return a substring of the input string from the start index (inclusive) to the end index (exclusive).
 
-3. **Method to Retrieve All Factors**  
+3. **Method to  Find the Index of a Character**  
    - **Signature:**  
      ```java
      public static int indexOf(String value, char find)
