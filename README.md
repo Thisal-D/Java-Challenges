@@ -12,3 +12,4 @@
     - [Part 2](./string-manipulate-algorithm/part-2)
     - [Part 3](./string-manipulate-algorithm/part-3)
     - [Part 4](./string-manipulate-algorithm/part-4)
+    - [Part 5](./string-manipulate-algorithm/part-5)
