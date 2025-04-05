@@ -47,10 +47,6 @@
 
 ![](./assets/2.png)
 
----
-
-![](./assets/3.png)
-
 
 ## Constraints:
 - The program should handle all possible string inputs without restrictions.
